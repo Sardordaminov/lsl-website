@@ -15,7 +15,7 @@ const Navbar = () => {
                     <li>Achievements</li>
                 </ul>
                 <div className="multilang-btn">
-                    <button>{ }</button>
+                    <button>{changelang}</button>
                 </div>
             </div>
         </div>
